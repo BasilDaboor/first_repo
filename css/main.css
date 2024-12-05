@@ -1,3 +1,11 @@
+:root{
+    --primaryColor: #ff274b;
+    --secondaryColor: #f7bcf7;
+    --lightColor : #ffffff;
+    --bgColor-1 : #171a1c;
+    --bgColor-2 : #22282a;
+}
 body{
-    color: black;
+    background-color: var(--bgColor-1);
+    font-family: cursive;
 }
